@@ -29,3 +29,12 @@ a {
 .social a {
     margin-right: 20px;
 }
+
+#profile-img {
+    border-radius: 50%;
+    max-width: 60%;
+}
+
+p img {
+    display: inline;
+}
