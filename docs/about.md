@@ -2,7 +2,7 @@
 id: about
 title: About
 ---
-![Cat waving hi](./assets/wave_hi.png) My name is Patricia and welcome to my personal website! I'm a software engineer on the Trust and Safety Team at Pinterest and Code2040 Alumni. Previously, I worked as a backend engineeer at Brigade, a civic tech startup building tools for constituents to hold their elected representatives accountable. In my freetime you can find me salsa dancing, hiking, and watching Formula1.
+![Cat waving hi](./assets/wave_hi.png#inline) My name is Patricia and welcome to my personal website! I'm a software engineer on the Trust and Safety Team at Pinterest and Code2040 Alumni. Previously, I worked as a backend engineeer at Brigade, a civic tech startup building tools for constituents to hold their elected representatives accountable. In my freetime you can find me salsa dancing, hiking, and watching Formula1.
 
 ## Writing and Press
 - [Latinas in Tech post on mentorship](https://latinasintech.org/pinterests-patricia-perozo-on-being-pin-it-to-win-it-and-mentoring-a-new-generation-of-tech-talent/)
